@@ -6,9 +6,64 @@
   display: table;
   clear: both;
 }
-
+body {
+  background: url(../img/world-map.png) no-repeat;
+  height: 100%;
+}
 .container {
+  display: inline-block;
   position: relative;
   width: 100%;
-  height: 100%;
+  height: 1000px;
+}
+
+.fox {
+  position: absolute;
+}
+
+.quokka {
+  position: absolute;
+}
+.red-panda {
+  position: absolute;
+}
+
+.seal {
+  position: absolute;
+}
+
+.wombat {
+  position: absolute;
+}
+
+.wren {
+  position: absolute;
+}
+
+.otter {
+  position: absolute;
+}
+
+
+.quokka {
+  position: absolute;
+}
+.red-panda {
+  position: absolute;
+}
+
+.seal {
+  position: absolute;
+}
+
+.wombat {
+  position: absolute;
+}
+
+.wren {
+  position: absolute;
+}
+
+.otter {
+  position: absolute;
 }
